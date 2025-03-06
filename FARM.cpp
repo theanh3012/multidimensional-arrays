@@ -5,9 +5,6 @@ using namespace std;
 int main()
 {
 
-   freopen("FARM.inp","r",stdin);
-   freopen("FARM.out","w",stdout);
-
    /*NOTAMS's:
    0 = No water;
    1 = Have Water;
